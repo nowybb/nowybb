@@ -1,16 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D6EEF1&height=170&text=Yeonwoo%20Na&fontSize=50&fontColor=3F6F78&fontAlignY=42&desc=AI%20Developer%20%40%20Sookmyung%20Women's%20University&descSize=18&descAlignY=68" width="100%"/>
-
-<!-- 학과·학년을 넣고 싶으면 위 주소의 desc= 부분을 바꾸세요 (띄어쓰기는 %20, @는 %40) -->
-
 <div align="center">
 
-<a href="mailto:yeonwoona05@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%20yeonwoona05@gmail.com-E6F4F6?style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/%EC%97%B0%EC%9A%B0-%EB%82%98-56142543a/"><img src="https://img.shields.io/badge/LinkedIn-E6F4F6?style=flat-square"/></a>
+# Yeonwoo Na
+
+**AI Engineering, Sookmyung Women's University**
+
+✉️ [yeonwoona05@gmail.com](mailto:yeonwoona05@gmail.com) · [LinkedIn](https://www.linkedin.com/in/%EC%97%B0%EC%9A%B0-%EB%82%98-56142543a/)
 
 </div>
 
 <br>
-
 
 ## About Me
 
@@ -29,43 +27,43 @@
 
 ## Tech Stack
 
-<!-- 기술 추가 형식: badge/이름-E6F4F6?style=flat-square&logo=로고이름&logoColor=4E9FAD -->
+<!-- 기술 추가 형식: badge/이름-F6F8FA?style=flat-square&logo=로고이름&logoColor=24292F -->
 <table>
   <tr>
     <td align="center" width="130"><b>Language</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-E6F4F6?style=flat-square&logo=python&logoColor=4E9FAD"/>
-      <img src="https://img.shields.io/badge/JavaScript-E6F4F6?style=flat-square&logo=javascript&logoColor=4E9FAD"/>
-      <img src="https://img.shields.io/badge/TypeScript-E6F4F6?style=flat-square&logo=typescript&logoColor=4E9FAD"/>
-      <img src="https://img.shields.io/badge/Java-E6F4F6?style=flat-square&logo=openjdk&logoColor=4E9FAD"/>
+      <img src="https://img.shields.io/badge/Python-F6F8FA?style=flat-square&logo=python&logoColor=24292F"/>
+      <img src="https://img.shields.io/badge/JavaScript-F6F8FA?style=flat-square&logo=javascript&logoColor=24292F"/>
+      <img src="https://img.shields.io/badge/TypeScript-F6F8FA?style=flat-square&logo=typescript&logoColor=24292F"/>
+      <img src="https://img.shields.io/badge/Java-F6F8FA?style=flat-square&logo=openjdk&logoColor=24292F"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/React-E6F4F6?style=flat-square&logo=react&logoColor=4E9FAD"/>
-      <img src="https://img.shields.io/badge/Vite-E6F4F6?style=flat-square&logo=vite&logoColor=4E9FAD"/>
-      <img src="https://img.shields.io/badge/HTML5-E6F4F6?style=flat-square&logo=html5&logoColor=4E9FAD"/>
-      <img src="https://img.shields.io/badge/CSS3-E6F4F6?style=flat-square&logo=css&logoColor=4E9FAD"/>
+      <img src="https://img.shields.io/badge/React-F6F8FA?style=flat-square&logo=react&logoColor=24292F"/>
+      <img src="https://img.shields.io/badge/Vite-F6F8FA?style=flat-square&logo=vite&logoColor=24292F"/>
+      <img src="https://img.shields.io/badge/HTML5-F6F8FA?style=flat-square&logo=html5&logoColor=24292F"/>
+      <img src="https://img.shields.io/badge/CSS3-F6F8FA?style=flat-square&logo=css&logoColor=24292F"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/FastAPI-E6F4F6?style=flat-square&logo=fastapi&logoColor=4E9FAD"/>
-      <img src="https://img.shields.io/badge/Spring%20Boot-E6F4F6?style=flat-square&logo=springboot&logoColor=4E9FAD"/>
-      <img src="https://img.shields.io/badge/MySQL-E6F4F6?style=flat-square&logo=mysql&logoColor=4E9FAD"/>
+      <img src="https://img.shields.io/badge/FastAPI-F6F8FA?style=flat-square&logo=fastapi&logoColor=24292F"/>
+      <img src="https://img.shields.io/badge/Spring%20Boot-F6F8FA?style=flat-square&logo=springboot&logoColor=24292F"/>
+      <img src="https://img.shields.io/badge/MySQL-F6F8FA?style=flat-square&logo=mysql&logoColor=24292F"/>
     </td>
   </tr>
   <tr>
     <td align="center"><b>AI · Data</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PyTorch-E6F4F6?style=flat-square&logo=pytorch&logoColor=4E9FAD"/>
-      <img src="https://img.shields.io/badge/OpenCV-E6F4F6?style=flat-square&logo=opencv&logoColor=4E9FAD"/>
-      <img src="https://img.shields.io/badge/YOLO-E6F4F6?style=flat-square&logo=ultralytics&logoColor=4E9FAD"/>
-      <img src="https://img.shields.io/badge/Gemini-E6F4F6?style=flat-square&logo=googlegemini&logoColor=4E9FAD"/>
-      <img src="https://img.shields.io/badge/ChromaDB-E6F4F6?style=flat-square&logoColor=4E9FAD"/>
-      <img src="https://img.shields.io/badge/Roboflow-E6F4F6?style=flat-square&logo=roboflow&logoColor=4E9FAD"/>
+      <img src="https://img.shields.io/badge/PyTorch-F6F8FA?style=flat-square&logo=pytorch&logoColor=24292F"/>
+      <img src="https://img.shields.io/badge/OpenCV-F6F8FA?style=flat-square&logo=opencv&logoColor=24292F"/>
+      <img src="https://img.shields.io/badge/YOLO-F6F8FA?style=flat-square&logo=ultralytics&logoColor=24292F"/>
+      <img src="https://img.shields.io/badge/Gemini-F6F8FA?style=flat-square&logo=googlegemini&logoColor=24292F"/>
+      <img src="https://img.shields.io/badge/ChromaDB-F6F8FA?style=flat-square&logoColor=24292F"/>
+      <img src="https://img.shields.io/badge/Roboflow-F6F8FA?style=flat-square&logo=roboflow&logoColor=24292F"/>
     </td>
   </tr>
 </table>
@@ -111,11 +109,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nowybb&show_icons=true&hide_border=true&hide_rank=true&bg_color=F2F9FA&title_color=4E9FAD&icon_color=9FD3DC&text_color=3F5A60"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowybb&layout=compact&hide_border=true&bg_color=F2F9FA&title_color=4E9FAD&text_color=3F5A60"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nowybb&show_icons=true&hide_border=true&hide_rank=true&bg_color=FFFFFF&title_color=24292F&icon_color=57606A&text_color=24292F"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowybb&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=24292F&text_color=24292F"/>
 
 </div>
-
-<!-- ============ FOOTER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9FD3DC,100:D6EEF1&height=120&section=footer" width="100%"/>
-
